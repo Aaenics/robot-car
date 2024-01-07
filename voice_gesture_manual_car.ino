@@ -1,6 +1,5 @@
 /*Manual,Gesture and voice control car
-   https://srituhobby.com
-*/
+  */
 
 //Include the AFmotor library
 #include <AFMotor.h>

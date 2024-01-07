@@ -1,5 +1,4 @@
 /*obstacle avoiding,bluetooth control,voice control robot car.
-   https://srituhobby.com
 */
 #include <Servo.h>
 #include <AFMotor.h>
